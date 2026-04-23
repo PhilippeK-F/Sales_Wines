@@ -1,6 +1,6 @@
 Sales Wines — Étude de marché Domaine des Croix
 
-Description du projet /
+Description du projet :
 
 Projet de certification Data Analyst (Wild Code School) — Blocs 2, 3 & 4.
 Le client, le Domaine des Croix (Bourgogne, France), souhaite se lancer sur le marché américain du vin. L'objectif est d'analyser un dataset de 130 000 bouteilles pour définir un prix compétitif et convaincre le client avec une analyse de marché complète.
