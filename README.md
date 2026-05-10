@@ -49,20 +49,6 @@ Principaux enseignements :
 Stack technique
 OutilUsagePythonAnalyse exploratoire, visualisations, MLPandasManipulation et nettoyage des donnéesMatplotlib / SeabornGraphiques et visualisationsScikit-learnRégression linéaire, arbre de décisionSQLite / SQLRequêtes sur base de données musicalePower BIDashboard interactifPowerPointPrésentation client
 
-Comment utiliser ce projet :
-
-Clone le repo :
-
-- bashgit clone https://github.com/TON_USERNAME/Sales_Wines.git
-
-Installe les dépendances :
-
-- bashpip install pandas matplotlib seaborn scikit-learn jupyter requests
-
-Lance le notebook :
-
-- bashjupyter notebook Philippe_Kirstetter-Fender_Certification_Data_Analyst_Cas_Pratiques.ipynb
-
 Auteur
 Philippe Kirstetter-Fender
 Certification Data Analyst — Wild Code School
